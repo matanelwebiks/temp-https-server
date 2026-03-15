@@ -1,0 +1,6 @@
+node_modules/
+test-data/data.xlsx
+test-data/data.shp.zip
+test-data/data.gpkg
+test-data/data.gdb.zip
+test-data/_shp_tmp/

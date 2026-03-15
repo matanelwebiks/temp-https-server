@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [34.7818, 32.0853],
+          [35.2137, 31.7683]
+        ]
+      },
+      "properties": { "name": "Tel Aviv - Jerusalem", "length_km": 60 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [34.7818, 32.0853],
+          [34.9896, 32.7940]
+        ]
+      },
+      "properties": { "name": "Tel Aviv - Haifa", "length_km": 95 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.2137, 31.7683],
+          [34.7913, 31.2518]
+        ]
+      },
+      "properties": { "name": "Jerusalem - Beer Sheva", "length_km": 80 }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.7818, 32.0853] },
+      "properties": { "name": "Tel Aviv", "value": 100 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.2137, 31.7683] },
+      "properties": { "name": "Jerusalem", "value": 200 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.9896, 32.7940] },
+      "properties": { "name": "Haifa", "value": 150 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.7913, 31.2518] },
+      "properties": { "name": "Beer Sheva", "value": 80 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.5018, 32.4627] },
+      "properties": { "name": "Nazareth", "value": 60 }
+    }
+  ]
+}

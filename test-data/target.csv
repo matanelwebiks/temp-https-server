@@ -1,0 +1,6 @@
+id,name,x,y,value,category
+1,Tel Aviv,171750,631750,100,city
+2,Jerusalem,219540,626540,200,city
+3,Haifa,198100,743500,150,city
+4,Beer Sheva,166260,547260,80,city
+5,Nazareth,222500,730000,60,town

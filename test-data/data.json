@@ -1,0 +1,7 @@
+[
+  { "name": "Tel Aviv",   "value": 100, "wkt": "POINT (34.7818 32.0853)" },
+  { "name": "Jerusalem",  "value": 200, "wkt": "POINT (35.2137 31.7683)" },
+  { "name": "Haifa",      "value": 150, "wkt": "POINT (34.9896 32.7940)" },
+  { "name": "Beer Sheva", "value": 80,  "wkt": "POINT (34.7913 31.2518)" },
+  { "name": "Nazareth",   "value": 60,  "wkt": "POINT (35.5018 32.4627)" }
+]
