@@ -11,6 +11,10 @@ const PORT = 3333;
 const HTTPS_PORT = 3443;
 const DATA_DIR = path.join(__dirname, 'test-data');
 
+// Trust reverse-proxy headers (X-Forwarded-Proto, etc.)
+// so req.protocol returns 'https' behind Railway / nginx / etc.
+app.set('trust proxy', true);
+
 // =====================================================================
 //  SECTION 1 — CONSTANTS & DATA FILE MAP
 // =====================================================================
@@ -382,25 +386,8 @@ registerLegacyFileRoutes('/query', requireQueryTokenLegacy);
 //  Spec endpoints A1–A8
 // =====================================================================
 
-// A1 — Public file (no auth)
-app.get('/files/public/:file', serveAnyFile);
-
-// A2 — Basic Auth
-app.get('/files/protected/basic/:file', requireBasicAuth, serveAnyFile);
-
-// A3 — Bearer Token
-app.get('/files/protected/bearer/:file', requireBearerAuth, serveAnyFile);
-
-// A4 — API Key
-app.get('/files/protected/apikey/:file', requireApiKeyAuth, serveAnyFile);
-
-// A5 — Custom Headers
-app.get('/files/protected/custom/:file', requireCustomHeaders, serveAnyFile);
-
-// A6 — Query Params auth
-app.get('/files/protected/query/:file', requireQueryParams, serveAnyFile);
-
 // A7 — Large file (>100MB GeoJSON streamed on-the-fly)
+// MUST be registered before the :file wildcard so it isn't swallowed
 app.get('/files/public/large-dataset.geojson', (req, res) => {
   res.set('Content-Type', 'application/geo+json');
   res.set('Content-Disposition', 'attachment; filename="large-dataset.geojson"');
@@ -434,6 +421,24 @@ app.get('/files/public/large-dataset.geojson', (req, res) => {
   }
   writeChunk();
 });
+
+// A1 — Public file (no auth)
+app.get('/files/public/:file', serveAnyFile);
+
+// A2 — Basic Auth
+app.get('/files/protected/basic/:file', requireBasicAuth, serveAnyFile);
+
+// A3 — Bearer Token
+app.get('/files/protected/bearer/:file', requireBearerAuth, serveAnyFile);
+
+// A4 — API Key
+app.get('/files/protected/apikey/:file', requireApiKeyAuth, serveAnyFile);
+
+// A5 — Custom Headers
+app.get('/files/protected/custom/:file', requireCustomHeaders, serveAnyFile);
+
+// A6 — Query Params auth
+app.get('/files/protected/query/:file', requireQueryParams, serveAnyFile);
 
 // A8 — 404 for missing file under /files/
 app.get('/files/not-found.geojson', (req, res) => {
