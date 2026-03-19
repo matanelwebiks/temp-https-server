@@ -1,0 +1,36 @@
+id,name,lon,lat,category,status
+1,Tel Aviv,34.450938,31.84776,park,inactive
+2,Jerusalem,34.935579,31.23981,market,inactive
+3,Haifa,34.306424,31.367126,station,archived
+4,Beer Sheva,34.7842,29.964406,office,active
+5,Nazareth,34.392003,29.775651,market,pending
+6,Eilat,34.773058,32.430103,office,pending
+7,Ashdod,35.309023,30.470076,school,active
+8,Netanya,34.94902,31.299624,mall,active
+9,Rishon LeZion,35.109003,30.806317,office,inactive
+10,Petah Tikva,35.394346,31.250887,park,pending
+11,Holon,34.904407,31.620292,school,pending
+12,Bat Yam,34.768769,30.813339,restaurant,inactive
+13,Ramat Gan,34.487942,32.175266,restaurant,pending
+14,Herzliya,34.883859,33.021413,park,inactive
+15,Kfar Saba,35.560324,31.71438,park,inactive
+16,Raanana,34.572387,32.704898,restaurant,active
+17,Rehovot,35.752266,32.241053,station,inactive
+18,Ashkelon,34.221403,29.547649,station,pending
+19,Lod,35.670529,32.365051,mall,archived
+20,Ramla,34.276326,30.783038,station,active
+21,Modiin,35.071071,31.234669,market,pending
+22,Acre,35.445849,29.911567,park,inactive
+23,Tiberias,35.269674,32.261164,park,archived
+24,Safed,34.659879,32.223341,restaurant,pending
+25,Dimona,35.005263,30.109217,mall,inactive
+26,Arad,34.936992,30.122834,park,active
+27,Kiryat Gat,35.153983,30.70971,office,active
+28,Kiryat Shmona,34.409421,32.584906,hospital,active
+29,Sderot,34.366163,32.106298,library,pending
+30,Or Yehuda,34.775415,32.394007,mall,active
+31,Givatayim,35.100175,30.007888,market,active
+32,Ramat Hasharon,34.736527,30.06401,library,active
+33,Hod Hasharon,34.360473,32.605005,park,archived
+34,Yavne,34.963944,31.138959,school,active
+35,Rosh HaAyin,34.292213,32.499567,school,archived

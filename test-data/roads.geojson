@@ -1,0 +1,697 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.252491,
+            31.039424
+          ],
+          [
+            34.259417,
+            31.03831
+          ],
+          [
+            34.264408,
+            31.029065
+          ],
+          [
+            34.271264,
+            31.037578
+          ],
+          [
+            34.264656,
+            31.041015
+          ],
+          [
+            34.262631,
+            31.050512
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 1,
+        "road_name": "Main St",
+        "lanes": 3,
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.077345,
+            30.575804
+          ],
+          [
+            35.076856,
+            30.570804
+          ],
+          [
+            35.072437,
+            30.580257
+          ],
+          [
+            35.06845,
+            30.576612
+          ],
+          [
+            35.0691,
+            30.578624
+          ],
+          [
+            35.069551,
+            30.572716
+          ],
+          [
+            35.069224,
+            30.568522
+          ],
+          [
+            35.075908,
+            30.560448
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 2,
+        "road_name": "Oak Ave",
+        "lanes": 3,
+        "surface": "gravel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.009439,
+            32.109582
+          ],
+          [
+            35.011576,
+            32.118843
+          ],
+          [
+            35.003976,
+            32.112441
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 3,
+        "road_name": "Herzl Blvd",
+        "lanes": 1,
+        "surface": "gravel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.318497,
+            32.945764
+          ],
+          [
+            35.328354,
+            32.938676
+          ],
+          [
+            35.319735,
+            32.944572
+          ],
+          [
+            35.31422,
+            32.935217
+          ],
+          [
+            35.322429,
+            32.935204
+          ],
+          [
+            35.313015,
+            32.933673
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 4,
+        "road_name": "Ben Gurion Way",
+        "lanes": 3,
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.186187,
+            30.182843
+          ],
+          [
+            35.185521,
+            30.192813
+          ],
+          [
+            35.190289,
+            30.189798
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 5,
+        "road_name": "Weizmann St",
+        "lanes": 2,
+        "surface": "dirt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.40309,
+            29.80699
+          ],
+          [
+            35.396956,
+            29.816226
+          ],
+          [
+            35.391584,
+            29.816858
+          ],
+          [
+            35.387901,
+            29.813912
+          ],
+          [
+            35.378181,
+            29.822217
+          ],
+          [
+            35.375529,
+            29.813426
+          ],
+          [
+            35.37194,
+            29.806899
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 6,
+        "road_name": "Jabotinsky Rd",
+        "lanes": 2,
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.716796,
+            30.512568
+          ],
+          [
+            34.71915,
+            30.511026
+          ],
+          [
+            34.722515,
+            30.511123
+          ],
+          [
+            34.720695,
+            30.505401
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 7,
+        "road_name": "Rothschild Blvd",
+        "lanes": 1,
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.535551,
+            31.439269
+          ],
+          [
+            35.543432,
+            31.441861
+          ],
+          [
+            35.546307,
+            31.451462
+          ],
+          [
+            35.546638,
+            31.447459
+          ],
+          [
+            35.541745,
+            31.451017
+          ],
+          [
+            35.549989,
+            31.441499
+          ],
+          [
+            35.549431,
+            31.442975
+          ],
+          [
+            35.543115,
+            31.439313
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 8,
+        "road_name": "Dizengoff St",
+        "lanes": 6,
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.172703,
+            31.147467
+          ],
+          [
+            35.171794,
+            31.152613
+          ],
+          [
+            35.171328,
+            31.160896
+          ],
+          [
+            35.164482,
+            31.153406
+          ],
+          [
+            35.171202,
+            31.143702
+          ],
+          [
+            35.161509,
+            31.151447
+          ],
+          [
+            35.157764,
+            31.148946
+          ],
+          [
+            35.161538,
+            31.141457
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 9,
+        "road_name": "Allenby Rd",
+        "lanes": 3,
+        "surface": "dirt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.107719,
+            31.772738
+          ],
+          [
+            35.104574,
+            31.776769
+          ],
+          [
+            35.10952,
+            31.768723
+          ],
+          [
+            35.109528,
+            31.762993
+          ],
+          [
+            35.107782,
+            31.769336
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 10,
+        "road_name": "King George St",
+        "lanes": 2,
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.574873,
+            30.69527
+          ],
+          [
+            35.577765,
+            30.697733
+          ],
+          [
+            35.574963,
+            30.692209
+          ],
+          [
+            35.569657,
+            30.692184
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 11,
+        "road_name": "Balfour St",
+        "lanes": 6,
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.50371,
+            30.196572
+          ],
+          [
+            35.496272,
+            30.192392
+          ],
+          [
+            35.495758,
+            30.182994
+          ],
+          [
+            35.486407,
+            30.18652
+          ],
+          [
+            35.482011,
+            30.180463
+          ],
+          [
+            35.488745,
+            30.190004
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 12,
+        "road_name": "Bialik St",
+        "lanes": 2,
+        "surface": "gravel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.237236,
+            32.68533
+          ],
+          [
+            34.229539,
+            32.681469
+          ],
+          [
+            34.236323,
+            32.672518
+          ],
+          [
+            34.231638,
+            32.674839
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 13,
+        "road_name": "Nordau Blvd",
+        "lanes": 4,
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.979784,
+            30.679529
+          ],
+          [
+            34.986879,
+            30.68705
+          ],
+          [
+            34.98649,
+            30.680503
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 14,
+        "road_name": "Sokolov St",
+        "lanes": 4,
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.088158,
+            30.565905
+          ],
+          [
+            35.083179,
+            30.573743
+          ],
+          [
+            35.076821,
+            30.574701
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 15,
+        "road_name": "Arlozorov St",
+        "lanes": 1,
+        "surface": "gravel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.782531,
+            32.31911
+          ],
+          [
+            34.778255,
+            32.31138
+          ],
+          [
+            34.787122,
+            32.310772
+          ],
+          [
+            34.788296,
+            32.317389
+          ],
+          [
+            34.779362,
+            32.326587
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 16,
+        "road_name": "Ibn Gvirol St",
+        "lanes": 4,
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.635048,
+            32.127504
+          ],
+          [
+            34.632115,
+            32.127688
+          ],
+          [
+            34.638732,
+            32.125553
+          ],
+          [
+            34.63625,
+            32.12931
+          ],
+          [
+            34.642476,
+            32.134985
+          ],
+          [
+            34.645656,
+            32.131968
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 17,
+        "road_name": "Kaplan St",
+        "lanes": 2,
+        "surface": "dirt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.314649,
+            32.987521
+          ],
+          [
+            35.318147,
+            32.980815
+          ],
+          [
+            35.315583,
+            32.97464
+          ],
+          [
+            35.324256,
+            32.976055
+          ],
+          [
+            35.326875,
+            32.980987
+          ],
+          [
+            35.323675,
+            32.980018
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 18,
+        "road_name": "Begin Rd",
+        "lanes": 4,
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.420244,
+            30.083444
+          ],
+          [
+            34.424507,
+            30.09286
+          ],
+          [
+            34.432194,
+            30.10279
+          ],
+          [
+            34.431764,
+            30.10144
+          ],
+          [
+            34.432698,
+            30.108636
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 19,
+        "road_name": "Yigal Alon St",
+        "lanes": 2,
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.294608,
+            31.632765
+          ],
+          [
+            34.300681,
+            31.634282
+          ],
+          [
+            34.305402,
+            31.640919
+          ]
+        ]
+      },
+      "properties": {
+        "road_id": 20,
+        "road_name": "HaYarkon St",
+        "lanes": 2,
+        "surface": "gravel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.337242,
+              29.647064
+            ],
+            [
+              35.347364,
+              29.647064
+            ],
+            [
+              35.347364,
+              29.657187
+            ],
+            [
+              35.337242,
+              29.657187
+            ],
+            [
+              35.337242,
+              29.647064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0001",
+        "area": 33040,
+        "owner": "Private",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.40117,
+              32.328199
+            ],
+            [
+              34.414092,
+              32.328199
+            ],
+            [
+              34.414092,
+              32.341121
+            ],
+            [
+              34.40117,
+              32.341121
+            ],
+            [
+              34.40117,
+              32.328199
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0002",
+        "area": 71211,
+        "owner": "JNF",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.993042,
+              31.072032
+            ],
+            [
+              35.007024,
+              31.072032
+            ],
+            [
+              35.007024,
+              31.086014
+            ],
+            [
+              34.993042,
+              31.086014
+            ],
+            [
+              34.993042,
+              31.072032
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0003",
+        "area": 43097,
+        "owner": "City",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.734902,
+              32.203533
+            ],
+            [
+              34.741504,
+              32.203533
+            ],
+            [
+              34.741504,
+              32.210135
+            ],
+            [
+              34.734902,
+              32.210135
+            ],
+            [
+              34.734902,
+              32.203533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0004",
+        "area": 59949,
+        "owner": "National Park Authority",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.441654,
+              31.797048
+            ],
+            [
+              34.449129,
+              31.797048
+            ],
+            [
+              34.449129,
+              31.804523
+            ],
+            [
+              34.441654,
+              31.804523
+            ],
+            [
+              34.441654,
+              31.797048
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0005",
+        "area": 43714,
+        "owner": "ILA",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.459329,
+              30.624852
+            ],
+            [
+              35.463614,
+              30.624852
+            ],
+            [
+              35.463614,
+              30.629138
+            ],
+            [
+              35.459329,
+              30.629138
+            ],
+            [
+              35.459329,
+              30.624852
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0006",
+        "area": 50591,
+        "owner": "National Park Authority",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.202344,
+              29.65126
+            ],
+            [
+              34.209914,
+              29.65126
+            ],
+            [
+              34.209914,
+              29.65883
+            ],
+            [
+              34.202344,
+              29.65883
+            ],
+            [
+              34.202344,
+              29.65126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0007",
+        "area": 8163,
+        "owner": "City",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.732399,
+              30.697893
+            ],
+            [
+              34.744152,
+              30.697893
+            ],
+            [
+              34.744152,
+              30.709646
+            ],
+            [
+              34.732399,
+              30.709646
+            ],
+            [
+              34.732399,
+              30.697893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0008",
+        "area": 66569,
+        "owner": "Municipality",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.222216,
+              31.459765
+            ],
+            [
+              35.225584,
+              31.459765
+            ],
+            [
+              35.225584,
+              31.463133
+            ],
+            [
+              35.222216,
+              31.463133
+            ],
+            [
+              35.222216,
+              31.459765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0009",
+        "area": 47332,
+        "owner": "Private",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.424592,
+              30.063422
+            ],
+            [
+              35.428576,
+              30.063422
+            ],
+            [
+              35.428576,
+              30.067406
+            ],
+            [
+              35.424592,
+              30.067406
+            ],
+            [
+              35.424592,
+              30.063422
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0010",
+        "area": 27755,
+        "owner": "City",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.367337,
+              30.481707
+            ],
+            [
+              35.376296,
+              30.481707
+            ],
+            [
+              35.376296,
+              30.490665
+            ],
+            [
+              35.367337,
+              30.490665
+            ],
+            [
+              35.367337,
+              30.481707
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0011",
+        "area": 45908,
+        "owner": "ILA",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.987546,
+              30.493808
+            ],
+            [
+              34.99604,
+              30.493808
+            ],
+            [
+              34.99604,
+              30.502302
+            ],
+            [
+              34.987546,
+              30.502302
+            ],
+            [
+              34.987546,
+              30.493808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0012",
+        "area": 9516,
+        "owner": "JNF",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.934562,
+              29.954732
+            ],
+            [
+              34.94917,
+              29.954732
+            ],
+            [
+              34.94917,
+              29.969341
+            ],
+            [
+              34.934562,
+              29.969341
+            ],
+            [
+              34.934562,
+              29.954732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0013",
+        "area": 36131,
+        "owner": "National Park Authority",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.654958,
+              30.332597
+            ],
+            [
+              34.663408,
+              30.332597
+            ],
+            [
+              34.663408,
+              30.341047
+            ],
+            [
+              34.654958,
+              30.341047
+            ],
+            [
+              34.654958,
+              30.332597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0014",
+        "area": 50365,
+        "owner": "JNF",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.357742,
+              30.652465
+            ],
+            [
+              34.360784,
+              30.652465
+            ],
+            [
+              34.360784,
+              30.655507
+            ],
+            [
+              34.357742,
+              30.655507
+            ],
+            [
+              34.357742,
+              30.652465
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0015",
+        "area": 19109,
+        "owner": "Municipality",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.758232,
+              31.916603
+            ],
+            [
+              34.765856,
+              31.916603
+            ],
+            [
+              34.765856,
+              31.924227
+            ],
+            [
+              34.758232,
+              31.924227
+            ],
+            [
+              34.758232,
+              31.916603
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0016",
+        "area": 11698,
+        "owner": "City",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.656022,
+              30.853053
+            ],
+            [
+              35.668641,
+              30.853053
+            ],
+            [
+              35.668641,
+              30.865672
+            ],
+            [
+              35.656022,
+              30.865672
+            ],
+            [
+              35.656022,
+              30.853053
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0017",
+        "area": 20940,
+        "owner": "City",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.940102,
+              30.985928
+            ],
+            [
+              34.953941,
+              30.985928
+            ],
+            [
+              34.953941,
+              30.999767
+            ],
+            [
+              34.940102,
+              30.999767
+            ],
+            [
+              34.940102,
+              30.985928
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0018",
+        "area": 71609,
+        "owner": "ILA",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.333208,
+              30.326987
+            ],
+            [
+              35.33919,
+              30.326987
+            ],
+            [
+              35.33919,
+              30.332967
+            ],
+            [
+              35.333208,
+              30.332967
+            ],
+            [
+              35.333208,
+              30.326987
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0019",
+        "area": 27446,
+        "owner": "Private",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.146234,
+              30.080056
+            ],
+            [
+              35.158004,
+              30.080056
+            ],
+            [
+              35.158004,
+              30.091826
+            ],
+            [
+              35.146234,
+              30.091826
+            ],
+            [
+              35.146234,
+              30.080056
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0020",
+        "area": 9254,
+        "owner": "Municipality",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.944163,
+              30.779343
+            ],
+            [
+              34.947173,
+              30.779343
+            ],
+            [
+              34.947173,
+              30.782353
+            ],
+            [
+              34.944163,
+              30.782353
+            ],
+            [
+              34.944163,
+              30.779343
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0021",
+        "area": 23179,
+        "owner": "City",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.545581,
+              29.535529
+            ],
+            [
+              34.557925,
+              29.535529
+            ],
+            [
+              34.557925,
+              29.547873
+            ],
+            [
+              34.545581,
+              29.547873
+            ],
+            [
+              34.545581,
+              29.535529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0022",
+        "area": 62696,
+        "owner": "City",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.919189,
+              30.192114
+            ],
+            [
+              34.932983,
+              30.192114
+            ],
+            [
+              34.932983,
+              30.205907
+            ],
+            [
+              34.919189,
+              30.205907
+            ],
+            [
+              34.919189,
+              30.192114
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0023",
+        "area": 28942,
+        "owner": "State",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.246431,
+              30.971445
+            ],
+            [
+              35.251644,
+              30.971445
+            ],
+            [
+              35.251644,
+              30.976657
+            ],
+            [
+              35.246431,
+              30.976657
+            ],
+            [
+              35.246431,
+              30.971445
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0024",
+        "area": 25991,
+        "owner": "State",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.72523,
+              29.647773
+            ],
+            [
+              35.738892,
+              29.647773
+            ],
+            [
+              35.738892,
+              29.661435
+            ],
+            [
+              35.72523,
+              29.661435
+            ],
+            [
+              35.72523,
+              29.647773
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0025",
+        "area": 53991,
+        "owner": "Municipality",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.391038,
+              33.152948
+            ],
+            [
+              35.404804,
+              33.152948
+            ],
+            [
+              35.404804,
+              33.166714
+            ],
+            [
+              35.391038,
+              33.166714
+            ],
+            [
+              35.391038,
+              33.152948
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0026",
+        "area": 1405,
+        "owner": "National Park Authority",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.90581,
+              29.514917
+            ],
+            [
+              34.909517,
+              29.514917
+            ],
+            [
+              34.909517,
+              29.518624
+            ],
+            [
+              34.90581,
+              29.518624
+            ],
+            [
+              34.90581,
+              29.514917
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0027",
+        "area": 57104,
+        "owner": "ILA",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.61193,
+              29.669629
+            ],
+            [
+              35.620256,
+              29.669629
+            ],
+            [
+              35.620256,
+              29.677955
+            ],
+            [
+              35.61193,
+              29.677955
+            ],
+            [
+              35.61193,
+              29.669629
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0028",
+        "area": 71777,
+        "owner": "Municipality",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.441633,
+              29.846016
+            ],
+            [
+              35.455027,
+              29.846016
+            ],
+            [
+              35.455027,
+              29.85941
+            ],
+            [
+              35.441633,
+              29.85941
+            ],
+            [
+              35.441633,
+              29.846016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0029",
+        "area": 52855,
+        "owner": "Private",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.468198,
+              31.996068
+            ],
+            [
+              35.478295,
+              31.996068
+            ],
+            [
+              35.478295,
+              32.006165
+            ],
+            [
+              35.468198,
+              32.006165
+            ],
+            [
+              35.468198,
+              31.996068
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0030",
+        "area": 65565,
+        "owner": "Municipality",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.16208,
+              32.785529
+            ],
+            [
+              35.172898,
+              32.785529
+            ],
+            [
+              35.172898,
+              32.796347
+            ],
+            [
+              35.16208,
+              32.796347
+            ],
+            [
+              35.16208,
+              32.785529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0031",
+        "area": 74092,
+        "owner": "City",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.721715,
+              31.58922
+            ],
+            [
+              34.734355,
+              31.58922
+            ],
+            [
+              34.734355,
+              31.60186
+            ],
+            [
+              34.721715,
+              31.60186
+            ],
+            [
+              34.721715,
+              31.58922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0032",
+        "area": 7584,
+        "owner": "Private",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.222502,
+              30.812393
+            ],
+            [
+              34.226558,
+              30.812393
+            ],
+            [
+              34.226558,
+              30.816449
+            ],
+            [
+              34.222502,
+              30.816449
+            ],
+            [
+              34.222502,
+              30.812393
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0033",
+        "area": 35854,
+        "owner": "State",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.834493,
+              31.436729
+            ],
+            [
+              34.843061,
+              31.436729
+            ],
+            [
+              34.843061,
+              31.445298
+            ],
+            [
+              34.834493,
+              31.445298
+            ],
+            [
+              34.834493,
+              31.436729
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0034",
+        "area": 20770,
+        "owner": "City",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.012162,
+              30.502289
+            ],
+            [
+              35.023418,
+              30.502289
+            ],
+            [
+              35.023418,
+              30.513545
+            ],
+            [
+              35.012162,
+              30.513545
+            ],
+            [
+              35.012162,
+              30.502289
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0035",
+        "area": 64587,
+        "owner": "City",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.615606,
+              30.895011
+            ],
+            [
+              35.620392,
+              30.895011
+            ],
+            [
+              35.620392,
+              30.899797
+            ],
+            [
+              35.615606,
+              30.899797
+            ],
+            [
+              35.615606,
+              30.895011
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0036",
+        "area": 75749,
+        "owner": "Municipality",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.913435,
+              30.868614
+            ],
+            [
+              34.928327,
+              30.868614
+            ],
+            [
+              34.928327,
+              30.883506
+            ],
+            [
+              34.913435,
+              30.883506
+            ],
+            [
+              34.913435,
+              30.868614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0037",
+        "area": 47263,
+        "owner": "City",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.195695,
+              30.297104
+            ],
+            [
+              34.206908,
+              30.297104
+            ],
+            [
+              34.206908,
+              30.308317
+            ],
+            [
+              34.195695,
+              30.308317
+            ],
+            [
+              34.195695,
+              30.297104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0038",
+        "area": 33432,
+        "owner": "State",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.880854,
+              29.624008
+            ],
+            [
+              34.890507,
+              29.624008
+            ],
+            [
+              34.890507,
+              29.633661
+            ],
+            [
+              34.880854,
+              29.633661
+            ],
+            [
+              34.880854,
+              29.624008
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0039",
+        "area": 5894,
+        "owner": "JNF",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.441097,
+              31.458062
+            ],
+            [
+              34.446843,
+              31.458062
+            ],
+            [
+              34.446843,
+              31.463807
+            ],
+            [
+              34.441097,
+              31.463807
+            ],
+            [
+              34.441097,
+              31.458062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0040",
+        "area": 52689,
+        "owner": "National Park Authority",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.634282,
+              29.624999
+            ],
+            [
+              34.649051,
+              29.624999
+            ],
+            [
+              34.649051,
+              29.639768
+            ],
+            [
+              34.634282,
+              29.639768
+            ],
+            [
+              34.634282,
+              29.624999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0041",
+        "area": 57807,
+        "owner": "Municipality",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.59343,
+              33.248381
+            ],
+            [
+              35.596978,
+              33.248381
+            ],
+            [
+              35.596978,
+              33.251929
+            ],
+            [
+              35.59343,
+              33.251929
+            ],
+            [
+              35.59343,
+              33.248381
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0042",
+        "area": 57049,
+        "owner": "ILA",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.529715,
+              33.024831
+            ],
+            [
+              34.543678,
+              33.024831
+            ],
+            [
+              34.543678,
+              33.038794
+            ],
+            [
+              34.529715,
+              33.038794
+            ],
+            [
+              34.529715,
+              33.024831
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0043",
+        "area": 31563,
+        "owner": "JNF",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.670831,
+              31.744254
+            ],
+            [
+              34.685369,
+              31.744254
+            ],
+            [
+              34.685369,
+              31.75879
+            ],
+            [
+              34.670831,
+              31.75879
+            ],
+            [
+              34.670831,
+              31.744254
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0044",
+        "area": 40046,
+        "owner": "City",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.219821,
+              31.955177
+            ],
+            [
+              34.225365,
+              31.955177
+            ],
+            [
+              34.225365,
+              31.960721
+            ],
+            [
+              34.219821,
+              31.960721
+            ],
+            [
+              34.219821,
+              31.955177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0045",
+        "area": 66006,
+        "owner": "ILA",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.783017,
+              31.472819
+            ],
+            [
+              35.793251,
+              31.472819
+            ],
+            [
+              35.793251,
+              31.483055
+            ],
+            [
+              35.783017,
+              31.483055
+            ],
+            [
+              35.783017,
+              31.472819
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0046",
+        "area": 73297,
+        "owner": "Municipality",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.109737,
+              32.004354
+            ],
+            [
+              35.122076,
+              32.004354
+            ],
+            [
+              35.122076,
+              32.016693
+            ],
+            [
+              35.109737,
+              32.016693
+            ],
+            [
+              35.109737,
+              32.004354
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0047",
+        "area": 42134,
+        "owner": "City",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.623044,
+              29.912527
+            ],
+            [
+              35.634919,
+              29.912527
+            ],
+            [
+              35.634919,
+              29.924403
+            ],
+            [
+              35.623044,
+              29.924403
+            ],
+            [
+              35.623044,
+              29.912527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0048",
+        "area": 72723,
+        "owner": "Private",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.775834,
+              31.233629
+            ],
+            [
+              35.787792,
+              31.233629
+            ],
+            [
+              35.787792,
+              31.245587
+            ],
+            [
+              35.775834,
+              31.245587
+            ],
+            [
+              35.775834,
+              31.233629
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0049",
+        "area": 43663,
+        "owner": "Municipality",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.315267,
+              32.673024
+            ],
+            [
+              34.321031,
+              32.673024
+            ],
+            [
+              34.321031,
+              32.678788
+            ],
+            [
+              34.315267,
+              32.678788
+            ],
+            [
+              34.315267,
+              32.673024
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0050",
+        "area": 29857,
+        "owner": "ILA",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.45164,
+              31.688086
+            ],
+            [
+              34.457638,
+              31.688086
+            ],
+            [
+              34.457638,
+              31.694084
+            ],
+            [
+              34.45164,
+              31.694084
+            ],
+            [
+              34.45164,
+              31.688086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0051",
+        "area": 24116,
+        "owner": "National Park Authority",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.983026,
+              31.5811
+            ],
+            [
+              34.995952,
+              31.5811
+            ],
+            [
+              34.995952,
+              31.594026
+            ],
+            [
+              34.983026,
+              31.594026
+            ],
+            [
+              34.983026,
+              31.5811
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0052",
+        "area": 56725,
+        "owner": "Private",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.218346,
+              30.739137
+            ],
+            [
+              34.222333,
+              30.739137
+            ],
+            [
+              34.222333,
+              30.743125
+            ],
+            [
+              34.218346,
+              30.743125
+            ],
+            [
+              34.218346,
+              30.739137
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0053",
+        "area": 36340,
+        "owner": "Private",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.784859,
+              29.880904
+            ],
+            [
+              35.793525,
+              29.880904
+            ],
+            [
+              35.793525,
+              29.88957
+            ],
+            [
+              35.784859,
+              29.88957
+            ],
+            [
+              35.784859,
+              29.880904
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0054",
+        "area": 28377,
+        "owner": "Private",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.83792,
+              32.636947
+            ],
+            [
+              34.842751,
+              32.636947
+            ],
+            [
+              34.842751,
+              32.641777
+            ],
+            [
+              34.83792,
+              32.641777
+            ],
+            [
+              34.83792,
+              32.636947
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0055",
+        "area": 51269,
+        "owner": "State",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.460179,
+              29.710713
+            ],
+            [
+              35.47186,
+              29.710713
+            ],
+            [
+              35.47186,
+              29.722395
+            ],
+            [
+              35.460179,
+              29.722395
+            ],
+            [
+              35.460179,
+              29.710713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0056",
+        "area": 42466,
+        "owner": "ILA",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.775933,
+              32.136583
+            ],
+            [
+              35.781293,
+              32.136583
+            ],
+            [
+              35.781293,
+              32.141943
+            ],
+            [
+              35.775933,
+              32.141943
+            ],
+            [
+              35.775933,
+              32.136583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0057",
+        "area": 38440,
+        "owner": "State",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.30738,
+              31.10632
+            ],
+            [
+              34.319617,
+              31.10632
+            ],
+            [
+              34.319617,
+              31.118557
+            ],
+            [
+              34.30738,
+              31.118557
+            ],
+            [
+              34.30738,
+              31.10632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0058",
+        "area": 73664,
+        "owner": "Municipality",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.605528,
+              31.052544
+            ],
+            [
+              35.61637,
+              31.052544
+            ],
+            [
+              35.61637,
+              31.063386
+            ],
+            [
+              35.605528,
+              31.063386
+            ],
+            [
+              35.605528,
+              31.052544
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0059",
+        "area": 41842,
+        "owner": "ILA",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.120545,
+              32.101569
+            ],
+            [
+              35.126833,
+              32.101569
+            ],
+            [
+              35.126833,
+              32.107857
+            ],
+            [
+              35.120545,
+              32.107857
+            ],
+            [
+              35.120545,
+              32.101569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0060",
+        "area": 34205,
+        "owner": "National Park Authority",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.641393,
+              32.656147
+            ],
+            [
+              35.650769,
+              32.656147
+            ],
+            [
+              35.650769,
+              32.665523
+            ],
+            [
+              35.641393,
+              32.665523
+            ],
+            [
+              35.641393,
+              32.656147
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0061",
+        "area": 72333,
+        "owner": "Municipality",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.06208,
+              30.480773
+            ],
+            [
+              35.076648,
+              30.480773
+            ],
+            [
+              35.076648,
+              30.495342
+            ],
+            [
+              35.06208,
+              30.495342
+            ],
+            [
+              35.06208,
+              30.480773
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0062",
+        "area": 13100,
+        "owner": "Private",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.01802,
+              30.401824
+            ],
+            [
+              35.025854,
+              30.401824
+            ],
+            [
+              35.025854,
+              30.409657
+            ],
+            [
+              35.01802,
+              30.409657
+            ],
+            [
+              35.01802,
+              30.401824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0063",
+        "area": 407,
+        "owner": "Private",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.326901,
+              30.568247
+            ],
+            [
+              35.333353,
+              30.568247
+            ],
+            [
+              35.333353,
+              30.574699
+            ],
+            [
+              35.326901,
+              30.574699
+            ],
+            [
+              35.326901,
+              30.568247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0064",
+        "area": 42139,
+        "owner": "State",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.133575,
+              31.497481
+            ],
+            [
+              35.145123,
+              31.497481
+            ],
+            [
+              35.145123,
+              31.509029
+            ],
+            [
+              35.133575,
+              31.509029
+            ],
+            [
+              35.133575,
+              31.497481
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0065",
+        "area": 4099,
+        "owner": "City",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.775702,
+              31.240911
+            ],
+            [
+              34.78027,
+              31.240911
+            ],
+            [
+              34.78027,
+              31.245479
+            ],
+            [
+              34.775702,
+              31.245479
+            ],
+            [
+              34.775702,
+              31.240911
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0066",
+        "area": 12847,
+        "owner": "National Park Authority",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.361264,
+              31.842631
+            ],
+            [
+              34.368974,
+              31.842631
+            ],
+            [
+              34.368974,
+              31.85034
+            ],
+            [
+              34.361264,
+              31.85034
+            ],
+            [
+              34.361264,
+              31.842631
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0067",
+        "area": 16105,
+        "owner": "State",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.496509,
+              30.64621
+            ],
+            [
+              35.505321,
+              30.64621
+            ],
+            [
+              35.505321,
+              30.655022
+            ],
+            [
+              35.496509,
+              30.655022
+            ],
+            [
+              35.496509,
+              30.64621
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0068",
+        "area": 72564,
+        "owner": "State",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.297772,
+              31.469612
+            ],
+            [
+              35.301868,
+              31.469612
+            ],
+            [
+              35.301868,
+              31.473708
+            ],
+            [
+              35.297772,
+              31.473708
+            ],
+            [
+              35.297772,
+              31.469612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0069",
+        "area": 40496,
+        "owner": "National Park Authority",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.726379,
+              30.580566
+            ],
+            [
+              35.740243,
+              30.580566
+            ],
+            [
+              35.740243,
+              30.59443
+            ],
+            [
+              35.726379,
+              30.59443
+            ],
+            [
+              35.726379,
+              30.580566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0070",
+        "area": 10838,
+        "owner": "Municipality",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.354788,
+              30.402731
+            ],
+            [
+              34.36689,
+              30.402731
+            ],
+            [
+              34.36689,
+              30.414833
+            ],
+            [
+              34.354788,
+              30.414833
+            ],
+            [
+              34.354788,
+              30.402731
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0071",
+        "area": 8132,
+        "owner": "ILA",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.494485,
+              32.217828
+            ],
+            [
+              34.509345,
+              32.217828
+            ],
+            [
+              34.509345,
+              32.232688
+            ],
+            [
+              34.494485,
+              32.232688
+            ],
+            [
+              34.494485,
+              32.217828
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0072",
+        "area": 14425,
+        "owner": "Municipality",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.801373,
+              30.976445
+            ],
+            [
+              34.813915,
+              30.976445
+            ],
+            [
+              34.813915,
+              30.988987
+            ],
+            [
+              34.801373,
+              30.988987
+            ],
+            [
+              34.801373,
+              30.976445
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0073",
+        "area": 19045,
+        "owner": "Private",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.465146,
+              30.385583
+            ],
+            [
+              35.468911,
+              30.385583
+            ],
+            [
+              35.468911,
+              30.389349
+            ],
+            [
+              35.465146,
+              30.389349
+            ],
+            [
+              35.465146,
+              30.385583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0074",
+        "area": 44456,
+        "owner": "ILA",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.832771,
+              29.930017
+            ],
+            [
+              34.838357,
+              29.930017
+            ],
+            [
+              34.838357,
+              29.935603
+            ],
+            [
+              34.832771,
+              29.935603
+            ],
+            [
+              34.832771,
+              29.930017
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0075",
+        "area": 56202,
+        "owner": "Private",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.947834,
+              29.554714
+            ],
+            [
+              34.961499,
+              29.554714
+            ],
+            [
+              34.961499,
+              29.56838
+            ],
+            [
+              34.947834,
+              29.56838
+            ],
+            [
+              34.947834,
+              29.554714
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0076",
+        "area": 70563,
+        "owner": "ILA",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.603427,
+              31.062491
+            ],
+            [
+              34.615301,
+              31.062491
+            ],
+            [
+              34.615301,
+              31.074365
+            ],
+            [
+              34.603427,
+              31.074365
+            ],
+            [
+              34.603427,
+              31.062491
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0077",
+        "area": 15138,
+        "owner": "National Park Authority",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.75626,
+              31.548303
+            ],
+            [
+              35.768921,
+              31.548303
+            ],
+            [
+              35.768921,
+              31.560965
+            ],
+            [
+              35.75626,
+              31.560965
+            ],
+            [
+              35.75626,
+              31.548303
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0078",
+        "area": 15206,
+        "owner": "National Park Authority",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.734121,
+              31.684499
+            ],
+            [
+              34.745497,
+              31.684499
+            ],
+            [
+              34.745497,
+              31.695875
+            ],
+            [
+              34.734121,
+              31.695875
+            ],
+            [
+              34.734121,
+              31.684499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0079",
+        "area": 66447,
+        "owner": "City",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.692898,
+              30.554991
+            ],
+            [
+              34.699432,
+              30.554991
+            ],
+            [
+              34.699432,
+              30.561524
+            ],
+            [
+              34.692898,
+              30.561524
+            ],
+            [
+              34.692898,
+              30.554991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0080",
+        "area": 56526,
+        "owner": "National Park Authority",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.522019,
+              30.808884
+            ],
+            [
+              34.526477,
+              30.808884
+            ],
+            [
+              34.526477,
+              30.813341
+            ],
+            [
+              34.522019,
+              30.813341
+            ],
+            [
+              34.522019,
+              30.808884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0081",
+        "area": 36831,
+        "owner": "National Park Authority",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.260222,
+              31.184168
+            ],
+            [
+              35.26723,
+              31.184168
+            ],
+            [
+              35.26723,
+              31.191176
+            ],
+            [
+              35.260222,
+              31.191176
+            ],
+            [
+              35.260222,
+              31.184168
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0082",
+        "area": 28253,
+        "owner": "Private",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.543122,
+              29.72906
+            ],
+            [
+              34.548372,
+              29.72906
+            ],
+            [
+              34.548372,
+              29.73431
+            ],
+            [
+              34.543122,
+              29.73431
+            ],
+            [
+              34.543122,
+              29.72906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0083",
+        "area": 45743,
+        "owner": "National Park Authority",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.275709,
+              33.182575
+            ],
+            [
+              35.288823,
+              33.182575
+            ],
+            [
+              35.288823,
+              33.195689
+            ],
+            [
+              35.275709,
+              33.195689
+            ],
+            [
+              35.275709,
+              33.182575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0084",
+        "area": 50968,
+        "owner": "Private",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.335887,
+              33.030119
+            ],
+            [
+              34.345709,
+              33.030119
+            ],
+            [
+              34.345709,
+              33.03994
+            ],
+            [
+              34.335887,
+              33.03994
+            ],
+            [
+              34.335887,
+              33.030119
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0085",
+        "area": 56858,
+        "owner": "State",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.464968,
+              30.508933
+            ],
+            [
+              34.473915,
+              30.508933
+            ],
+            [
+              34.473915,
+              30.517879
+            ],
+            [
+              34.464968,
+              30.517879
+            ],
+            [
+              34.464968,
+              30.508933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0086",
+        "area": 35321,
+        "owner": "City",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.416925,
+              30.103631
+            ],
+            [
+              34.425862,
+              30.103631
+            ],
+            [
+              34.425862,
+              30.112569
+            ],
+            [
+              34.416925,
+              30.112569
+            ],
+            [
+              34.416925,
+              30.103631
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0087",
+        "area": 56542,
+        "owner": "Private",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.644815,
+              31.752069
+            ],
+            [
+              34.658061,
+              31.752069
+            ],
+            [
+              34.658061,
+              31.765315
+            ],
+            [
+              34.644815,
+              31.765315
+            ],
+            [
+              34.644815,
+              31.752069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0088",
+        "area": 14261,
+        "owner": "City",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.558847,
+              31.549264
+            ],
+            [
+              35.563903,
+              31.549264
+            ],
+            [
+              35.563903,
+              31.55432
+            ],
+            [
+              35.558847,
+              31.55432
+            ],
+            [
+              35.558847,
+              31.549264
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0089",
+        "area": 40698,
+        "owner": "State",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.175309,
+              29.505474
+            ],
+            [
+              35.189157,
+              29.505474
+            ],
+            [
+              35.189157,
+              29.519322
+            ],
+            [
+              35.175309,
+              29.519322
+            ],
+            [
+              35.175309,
+              29.505474
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0090",
+        "area": 57637,
+        "owner": "JNF",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.062678,
+              31.98481
+            ],
+            [
+              35.077676,
+              31.98481
+            ],
+            [
+              35.077676,
+              31.999808
+            ],
+            [
+              35.062678,
+              31.999808
+            ],
+            [
+              35.062678,
+              31.98481
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0091",
+        "area": 79938,
+        "owner": "State",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.151663,
+              31.927176
+            ],
+            [
+              35.162453,
+              31.927176
+            ],
+            [
+              35.162453,
+              31.937966
+            ],
+            [
+              35.151663,
+              31.937966
+            ],
+            [
+              35.151663,
+              31.927176
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0092",
+        "area": 7696,
+        "owner": "National Park Authority",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.722874,
+              33.19763
+            ],
+            [
+              34.733241,
+              33.19763
+            ],
+            [
+              34.733241,
+              33.207997
+            ],
+            [
+              34.722874,
+              33.207997
+            ],
+            [
+              34.722874,
+              33.19763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0093",
+        "area": 43012,
+        "owner": "ILA",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.326872,
+              33.04232
+            ],
+            [
+              35.332695,
+              33.04232
+            ],
+            [
+              35.332695,
+              33.048144
+            ],
+            [
+              35.326872,
+              33.048144
+            ],
+            [
+              35.326872,
+              33.04232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0094",
+        "area": 10464,
+        "owner": "Municipality",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.809038,
+              32.776136
+            ],
+            [
+              34.82148,
+              32.776136
+            ],
+            [
+              34.82148,
+              32.788578
+            ],
+            [
+              34.809038,
+              32.788578
+            ],
+            [
+              34.809038,
+              32.776136
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0095",
+        "area": 72216,
+        "owner": "ILA",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.751188,
+              33.093633
+            ],
+            [
+              35.758298,
+              33.093633
+            ],
+            [
+              35.758298,
+              33.100743
+            ],
+            [
+              35.751188,
+              33.100743
+            ],
+            [
+              35.751188,
+              33.093633
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0096",
+        "area": 27441,
+        "owner": "Municipality",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.640717,
+              32.16461
+            ],
+            [
+              35.651789,
+              32.16461
+            ],
+            [
+              35.651789,
+              32.175682
+            ],
+            [
+              35.640717,
+              32.175682
+            ],
+            [
+              35.640717,
+              32.16461
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0097",
+        "area": 55349,
+        "owner": "Municipality",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.659109,
+              29.983332
+            ],
+            [
+              34.667321,
+              29.983332
+            ],
+            [
+              34.667321,
+              29.991544
+            ],
+            [
+              34.659109,
+              29.991544
+            ],
+            [
+              34.659109,
+              29.983332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0098",
+        "area": 34814,
+        "owner": "State",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.55536,
+              29.882295
+            ],
+            [
+              34.560086,
+              29.882295
+            ],
+            [
+              34.560086,
+              29.887021
+            ],
+            [
+              34.55536,
+              29.887021
+            ],
+            [
+              34.55536,
+              29.882295
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0099",
+        "area": 76276,
+        "owner": "City",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.123586,
+              31.007876
+            ],
+            [
+              35.134052,
+              31.007876
+            ],
+            [
+              35.134052,
+              31.018342
+            ],
+            [
+              35.123586,
+              31.018342
+            ],
+            [
+              35.123586,
+              31.007876
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0100",
+        "area": 65730,
+        "owner": "State",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.380655,
+              31.870163
+            ],
+            [
+              34.383849,
+              31.870163
+            ],
+            [
+              34.383849,
+              31.873357
+            ],
+            [
+              34.380655,
+              31.873357
+            ],
+            [
+              34.380655,
+              31.870163
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0101",
+        "area": 23302,
+        "owner": "ILA",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.432766,
+              32.194395
+            ],
+            [
+              35.440366,
+              32.194395
+            ],
+            [
+              35.440366,
+              32.201995
+            ],
+            [
+              35.432766,
+              32.201995
+            ],
+            [
+              35.432766,
+              32.194395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0102",
+        "area": 60621,
+        "owner": "Municipality",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.69696,
+              30.318126
+            ],
+            [
+              34.707672,
+              30.318126
+            ],
+            [
+              34.707672,
+              30.328838
+            ],
+            [
+              34.69696,
+              30.328838
+            ],
+            [
+              34.69696,
+              30.318126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0103",
+        "area": 64551,
+        "owner": "JNF",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.324192,
+              29.57496
+            ],
+            [
+              34.332104,
+              29.57496
+            ],
+            [
+              34.332104,
+              29.582872
+            ],
+            [
+              34.324192,
+              29.582872
+            ],
+            [
+              34.324192,
+              29.57496
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0104",
+        "area": 59246,
+        "owner": "State",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.688893,
+              32.168761
+            ],
+            [
+              35.694001,
+              32.168761
+            ],
+            [
+              35.694001,
+              32.173869
+            ],
+            [
+              35.688893,
+              32.173869
+            ],
+            [
+              35.688893,
+              32.168761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0105",
+        "area": 42300,
+        "owner": "Private",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.249085,
+              32.422911
+            ],
+            [
+              35.259892,
+              32.422911
+            ],
+            [
+              35.259892,
+              32.433718
+            ],
+            [
+              35.249085,
+              32.433718
+            ],
+            [
+              35.249085,
+              32.422911
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0106",
+        "area": 70492,
+        "owner": "State",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.721978,
+              30.335981
+            ],
+            [
+              35.73687,
+              30.335981
+            ],
+            [
+              35.73687,
+              30.350872
+            ],
+            [
+              35.721978,
+              30.350872
+            ],
+            [
+              35.721978,
+              30.335981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0107",
+        "area": 42876,
+        "owner": "National Park Authority",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.693517,
+              29.694968
+            ],
+            [
+              34.7038,
+              29.694968
+            ],
+            [
+              34.7038,
+              29.705251
+            ],
+            [
+              34.693517,
+              29.705251
+            ],
+            [
+              34.693517,
+              29.694968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0108",
+        "area": 67021,
+        "owner": "City",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.468021,
+              32.943154
+            ],
+            [
+              35.478373,
+              32.943154
+            ],
+            [
+              35.478373,
+              32.953506
+            ],
+            [
+              35.468021,
+              32.953506
+            ],
+            [
+              35.468021,
+              32.943154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0109",
+        "area": 11855,
+        "owner": "City",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.749429,
+              31.410424
+            ],
+            [
+              34.753973,
+              31.410424
+            ],
+            [
+              34.753973,
+              31.414969
+            ],
+            [
+              34.749429,
+              31.414969
+            ],
+            [
+              34.749429,
+              31.410424
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0110",
+        "area": 39796,
+        "owner": "Private",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.723736,
+              33.187085
+            ],
+            [
+              35.736766,
+              33.187085
+            ],
+            [
+              35.736766,
+              33.200115
+            ],
+            [
+              35.723736,
+              33.200115
+            ],
+            [
+              35.723736,
+              33.187085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0111",
+        "area": 6996,
+        "owner": "National Park Authority",
+        "status": "pending"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.62607,
+              29.784217
+            ],
+            [
+              35.637056,
+              29.784217
+            ],
+            [
+              35.637056,
+              29.795203
+            ],
+            [
+              35.62607,
+              29.795203
+            ],
+            [
+              35.62607,
+              29.784217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0112",
+        "area": 56522,
+        "owner": "Private",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.632249,
+              29.769264
+            ],
+            [
+              35.647008,
+              29.769264
+            ],
+            [
+              35.647008,
+              29.784022
+            ],
+            [
+              35.632249,
+              29.784022
+            ],
+            [
+              35.632249,
+              29.769264
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0113",
+        "area": 43799,
+        "owner": "Municipality",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.49823,
+              29.860035
+            ],
+            [
+              34.501973,
+              29.860035
+            ],
+            [
+              34.501973,
+              29.863778
+            ],
+            [
+              34.49823,
+              29.863778
+            ],
+            [
+              34.49823,
+              29.860035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0114",
+        "area": 13326,
+        "owner": "ILA",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.120626,
+              29.987018
+            ],
+            [
+              35.128545,
+              29.987018
+            ],
+            [
+              35.128545,
+              29.994937
+            ],
+            [
+              35.120626,
+              29.994937
+            ],
+            [
+              35.120626,
+              29.987018
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0115",
+        "area": 19266,
+        "owner": "ILA",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.696537,
+              30.922366
+            ],
+            [
+              34.708953,
+              30.922366
+            ],
+            [
+              34.708953,
+              30.934783
+            ],
+            [
+              34.696537,
+              30.934783
+            ],
+            [
+              34.696537,
+              30.922366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0116",
+        "area": 48689,
+        "owner": "ILA",
+        "status": "active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.724679,
+              33.139819
+            ],
+            [
+              34.734811,
+              33.139819
+            ],
+            [
+              34.734811,
+              33.149951
+            ],
+            [
+              34.724679,
+              33.149951
+            ],
+            [
+              34.724679,
+              33.139819
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0117",
+        "area": 8610,
+        "owner": "JNF",
+        "status": "archived"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.430119,
+              31.582839
+            ],
+            [
+              35.436163,
+              31.582839
+            ],
+            [
+              35.436163,
+              31.588881
+            ],
+            [
+              35.430119,
+              31.588881
+            ],
+            [
+              35.430119,
+              31.582839
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0118",
+        "area": 67170,
+        "owner": "Municipality",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.3506,
+              30.803751
+            ],
+            [
+              34.356138,
+              30.803751
+            ],
+            [
+              34.356138,
+              30.809289
+            ],
+            [
+              34.3506,
+              30.809289
+            ],
+            [
+              34.3506,
+              30.803751
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0119",
+        "area": 3925,
+        "owner": "Private",
+        "status": "inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.787532,
+              30.031437
+            ],
+            [
+              34.79069,
+              30.031437
+            ],
+            [
+              34.79069,
+              30.034595
+            ],
+            [
+              34.787532,
+              30.034595
+            ],
+            [
+              34.787532,
+              30.031437
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P0120",
+        "area": 7881,
+        "owner": "Private",
+        "status": "archived"
+      }
+    }
+  ]
+}

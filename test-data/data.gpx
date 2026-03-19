@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="test-server"
-     xmlns="http://www.topografix.com/GPX/1/1">
-  <wpt lat="32.0853" lon="34.7818">
-    <name>Tel Aviv</name>
-    <desc>value=100</desc>
-  </wpt>
-  <wpt lat="31.7683" lon="35.2137">
-    <name>Jerusalem</name>
-    <desc>value=200</desc>
-  </wpt>
-  <wpt lat="32.7940" lon="34.9896">
-    <name>Haifa</name>
-    <desc>value=150</desc>
-  </wpt>
-  <wpt lat="31.2518" lon="34.7913">
-    <name>Beer Sheva</name>
-    <desc>value=80</desc>
-  </wpt>
-  <wpt lat="32.4627" lon="35.5018">
-    <name>Nazareth</name>
-    <desc>value=60</desc>
-  </wpt>
+<gpx version="1.1" creator="test-server">
+  <wpt lat="31.40087" lon="35.519258"><name>Tel Aviv</name></wpt>
+  <wpt lat="31.139788" lon="34.265779"><name>Jerusalem</name></wpt>
+  <wpt lat="31.92302" lon="35.088747"><name>Haifa</name></wpt>
+  <wpt lat="31.399885" lon="35.330583"><name>Beer Sheva</name></wpt>
+  <wpt lat="29.985364" lon="35.269971"><name>Nazareth</name></wpt>
 </gpx>

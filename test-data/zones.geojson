@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.817683,
+              30.37696
+            ],
+            [
+              34.859349,
+              30.37696
+            ],
+            [
+              34.859349,
+              30.418626
+            ],
+            [
+              34.817683,
+              30.418626
+            ],
+            [
+              34.817683,
+              30.37696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_a",
+        "name": "Industrial",
+        "maxHeight": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.700547,
+              30.767905
+            ],
+            [
+              35.742771,
+              30.767905
+            ],
+            [
+              35.742771,
+              30.810129
+            ],
+            [
+              35.700547,
+              30.810129
+            ],
+            [
+              35.700547,
+              30.767905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_b",
+        "name": "Residential",
+        "maxHeight": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.546782,
+              30.183557
+            ],
+            [
+              35.558687,
+              30.183557
+            ],
+            [
+              35.558687,
+              30.195462
+            ],
+            [
+              35.546782,
+              30.195462
+            ],
+            [
+              35.546782,
+              30.183557
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_c",
+        "name": "Commercial",
+        "maxHeight": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.286599,
+              31.064441
+            ],
+            [
+              35.314355,
+              31.064441
+            ],
+            [
+              35.314355,
+              31.092197
+            ],
+            [
+              35.286599,
+              31.092197
+            ],
+            [
+              35.286599,
+              31.064441
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_d",
+        "name": "Agricultural",
+        "maxHeight": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.53358,
+              30.557874
+            ],
+            [
+              35.580844,
+              30.557874
+            ],
+            [
+              35.580844,
+              30.605138
+            ],
+            [
+              35.53358,
+              30.605138
+            ],
+            [
+              35.53358,
+              30.557874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_e",
+        "name": "Mixed Use",
+        "maxHeight": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.726225,
+              32.787287
+            ],
+            [
+              35.736921,
+              32.787287
+            ],
+            [
+              35.736921,
+              32.797983
+            ],
+            [
+              35.726225,
+              32.797983
+            ],
+            [
+              35.726225,
+              32.787287
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_f",
+        "name": "Educational",
+        "maxHeight": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.115032,
+              31.954382
+            ],
+            [
+              35.155529,
+              31.954382
+            ],
+            [
+              35.155529,
+              31.994879
+            ],
+            [
+              35.115032,
+              31.994879
+            ],
+            [
+              35.115032,
+              31.954382
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_g",
+        "name": "Military",
+        "maxHeight": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.607996,
+              29.892944
+            ],
+            [
+              34.636369,
+              29.892944
+            ],
+            [
+              34.636369,
+              29.921318
+            ],
+            [
+              34.607996,
+              29.921318
+            ],
+            [
+              34.607996,
+              29.892944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "zone_h",
+        "name": "Nature Reserve",
+        "maxHeight": 20
+      }
+    }
+  ]
+}

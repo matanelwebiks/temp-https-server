@@ -1,7 +1,32 @@
 [
-  { "name": "Tel Aviv",   "value": 100, "wkt": "POINT (34.7818 32.0853)" },
-  { "name": "Jerusalem",  "value": 200, "wkt": "POINT (35.2137 31.7683)" },
-  { "name": "Haifa",      "value": 150, "wkt": "POINT (34.9896 32.7940)" },
-  { "name": "Beer Sheva", "value": 80,  "wkt": "POINT (34.7913 31.2518)" },
-  { "name": "Nazareth",   "value": 60,  "wkt": "POINT (35.5018 32.4627)" }
+  {
+    "id": 1,
+    "name": "Tel Aviv",
+    "wkt": "POINT (35.378166 32.26716)",
+    "value": 132
+  },
+  {
+    "id": 2,
+    "name": "Jerusalem",
+    "wkt": "POINT (35.603902 30.99907)",
+    "value": 27
+  },
+  {
+    "id": 3,
+    "name": "Haifa",
+    "wkt": "POINT (35.54156 29.610825)",
+    "value": 435
+  },
+  {
+    "id": 4,
+    "name": "Beer Sheva",
+    "wkt": "POINT (34.384715 30.172394)",
+    "value": 254
+  },
+  {
+    "id": 5,
+    "name": "Nazareth",
+    "wkt": "POINT (34.911677 32.145382)",
+    "value": 285
+  }
 ]

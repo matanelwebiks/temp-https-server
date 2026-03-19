@@ -1,0 +1,905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.140822,
+              33.216754
+            ],
+            [
+              35.1463,
+              33.216754
+            ],
+            [
+              35.1463,
+              33.222232
+            ],
+            [
+              35.140822,
+              33.222232
+            ],
+            [
+              35.140822,
+              33.216754
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 1",
+        "area": 40004,
+        "owner": "Municipality",
+        "zoneType": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.431615,
+              29.845481
+            ],
+            [
+              34.445455,
+              29.845481
+            ],
+            [
+              34.445455,
+              29.859319
+            ],
+            [
+              34.431615,
+              29.859319
+            ],
+            [
+              34.431615,
+              29.845481
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 2",
+        "area": 38085,
+        "owner": "National Park Authority",
+        "zoneType": "Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.71291,
+              33.283799
+            ],
+            [
+              34.723924,
+              33.283799
+            ],
+            [
+              34.723924,
+              33.294813
+            ],
+            [
+              34.71291,
+              33.294813
+            ],
+            [
+              34.71291,
+              33.283799
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 3",
+        "area": 34392,
+        "owner": "National Park Authority",
+        "zoneType": "Commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.672123,
+              30.886351
+            ],
+            [
+              34.688091,
+              30.886351
+            ],
+            [
+              34.688091,
+              30.90232
+            ],
+            [
+              34.672123,
+              30.90232
+            ],
+            [
+              34.672123,
+              30.886351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 4",
+        "area": 9759,
+        "owner": "ILA",
+        "zoneType": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.119267,
+              31.721902
+            ],
+            [
+              35.130303,
+              31.721902
+            ],
+            [
+              35.130303,
+              31.732937
+            ],
+            [
+              35.119267,
+              31.732937
+            ],
+            [
+              35.119267,
+              31.721902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 5",
+        "area": 39587,
+        "owner": "JNF",
+        "zoneType": "Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.599986,
+              30.894819
+            ],
+            [
+              35.606762,
+              30.894819
+            ],
+            [
+              35.606762,
+              30.901595
+            ],
+            [
+              35.599986,
+              30.901595
+            ],
+            [
+              35.599986,
+              30.894819
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 6",
+        "area": 6903,
+        "owner": "State",
+        "zoneType": "Agricultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.315455,
+              32.202345
+            ],
+            [
+              35.323232,
+              32.202345
+            ],
+            [
+              35.323232,
+              32.210123
+            ],
+            [
+              35.315455,
+              32.210123
+            ],
+            [
+              35.315455,
+              32.202345
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 7",
+        "area": 19945,
+        "owner": "City",
+        "zoneType": "Educational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.563528,
+              32.716495
+            ],
+            [
+              34.57081,
+              32.716495
+            ],
+            [
+              34.57081,
+              32.723776
+            ],
+            [
+              34.563528,
+              32.723776
+            ],
+            [
+              34.563528,
+              32.716495
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 8",
+        "area": 17702,
+        "owner": "City",
+        "zoneType": "Military"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.475104,
+              31.260781
+            ],
+            [
+              34.485874,
+              31.260781
+            ],
+            [
+              34.485874,
+              31.271551
+            ],
+            [
+              34.475104,
+              31.271551
+            ],
+            [
+              34.475104,
+              31.260781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 9",
+        "area": 27588,
+        "owner": "Private",
+        "zoneType": "Agricultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.374184,
+              32.693253
+            ],
+            [
+              34.39345,
+              32.693253
+            ],
+            [
+              34.39345,
+              32.712519
+            ],
+            [
+              34.374184,
+              32.712519
+            ],
+            [
+              34.374184,
+              32.693253
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 10",
+        "area": 9816,
+        "owner": "Municipality",
+        "zoneType": "Agricultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.203767,
+              33.156156
+            ],
+            [
+              34.222505,
+              33.156156
+            ],
+            [
+              34.222505,
+              33.174894
+            ],
+            [
+              34.203767,
+              33.174894
+            ],
+            [
+              34.203767,
+              33.156156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 11",
+        "area": 39078,
+        "owner": "National Park Authority",
+        "zoneType": "Educational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.254408,
+              32.463591
+            ],
+            [
+              34.259784,
+              32.463591
+            ],
+            [
+              34.259784,
+              32.468967
+            ],
+            [
+              34.254408,
+              32.468967
+            ],
+            [
+              34.254408,
+              32.463591
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 12",
+        "area": 36163,
+        "owner": "ILA",
+        "zoneType": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.443658,
+              31.674301
+            ],
+            [
+              34.458821,
+              31.674301
+            ],
+            [
+              34.458821,
+              31.689464
+            ],
+            [
+              34.443658,
+              31.689464
+            ],
+            [
+              34.443658,
+              31.674301
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 13",
+        "area": 20351,
+        "owner": "City",
+        "zoneType": "Nature Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.957368,
+              32.124158
+            ],
+            [
+              34.97114,
+              32.124158
+            ],
+            [
+              34.97114,
+              32.13793
+            ],
+            [
+              34.957368,
+              32.13793
+            ],
+            [
+              34.957368,
+              32.124158
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 14",
+        "area": 35758,
+        "owner": "State",
+        "zoneType": "Agricultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.180364,
+              31.204623
+            ],
+            [
+              35.193178,
+              31.204623
+            ],
+            [
+              35.193178,
+              31.217437
+            ],
+            [
+              35.180364,
+              31.217437
+            ],
+            [
+              35.180364,
+              31.204623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 15",
+        "area": 44695,
+        "owner": "City",
+        "zoneType": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.656794,
+              29.533688
+            ],
+            [
+              35.665206,
+              29.533688
+            ],
+            [
+              35.665206,
+              29.5421
+            ],
+            [
+              35.656794,
+              29.5421
+            ],
+            [
+              35.656794,
+              29.533688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 16",
+        "area": 26102,
+        "owner": "JNF",
+        "zoneType": "Nature Reserve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.550658,
+              32.209918
+            ],
+            [
+              35.557442,
+              32.209918
+            ],
+            [
+              35.557442,
+              32.216702
+            ],
+            [
+              35.550658,
+              32.216702
+            ],
+            [
+              35.550658,
+              32.209918
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 17",
+        "area": 8291,
+        "owner": "Municipality",
+        "zoneType": "Commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.680294,
+              30.907196
+            ],
+            [
+              34.68784,
+              30.907196
+            ],
+            [
+              34.68784,
+              30.914742
+            ],
+            [
+              34.680294,
+              30.914742
+            ],
+            [
+              34.680294,
+              30.907196
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 18",
+        "area": 20501,
+        "owner": "State",
+        "zoneType": "Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.384466,
+              31.456044
+            ],
+            [
+              34.394324,
+              31.456044
+            ],
+            [
+              34.394324,
+              31.465902
+            ],
+            [
+              34.384466,
+              31.465902
+            ],
+            [
+              34.384466,
+              31.456044
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 19",
+        "area": 1183,
+        "owner": "Private",
+        "zoneType": "Mixed Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.650647,
+              29.832055
+            ],
+            [
+              35.661576,
+              29.832055
+            ],
+            [
+              35.661576,
+              29.842983
+            ],
+            [
+              35.650647,
+              29.842983
+            ],
+            [
+              35.650647,
+              29.832055
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 20",
+        "area": 24191,
+        "owner": "JNF",
+        "zoneType": "Military"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.286496,
+              33.030352
+            ],
+            [
+              35.29942,
+              33.030352
+            ],
+            [
+              35.29942,
+              33.043277
+            ],
+            [
+              35.286496,
+              33.043277
+            ],
+            [
+              35.286496,
+              33.030352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 21",
+        "area": 14975,
+        "owner": "JNF",
+        "zoneType": "Agricultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.364179,
+              31.422873
+            ],
+            [
+              34.379559,
+              31.422873
+            ],
+            [
+              34.379559,
+              31.438253
+            ],
+            [
+              34.364179,
+              31.438253
+            ],
+            [
+              34.364179,
+              31.422873
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 22",
+        "area": 16617,
+        "owner": "Private",
+        "zoneType": "Military"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.374268,
+              31.431998
+            ],
+            [
+              34.391146,
+              31.431998
+            ],
+            [
+              34.391146,
+              31.448876
+            ],
+            [
+              34.374268,
+              31.448876
+            ],
+            [
+              34.374268,
+              31.431998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 23",
+        "area": 9789,
+        "owner": "Private",
+        "zoneType": "Educational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.200363,
+              29.547157
+            ],
+            [
+              34.208165,
+              29.547157
+            ],
+            [
+              34.208165,
+              29.55496
+            ],
+            [
+              34.200363,
+              29.55496
+            ],
+            [
+              34.200363,
+              29.547157
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 24",
+        "area": 7855,
+        "owner": "State",
+        "zoneType": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.406091,
+              32.581128
+            ],
+            [
+              35.413903,
+              32.581128
+            ],
+            [
+              35.413903,
+              32.58894
+            ],
+            [
+              35.406091,
+              32.58894
+            ],
+            [
+              35.406091,
+              32.581128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Polygon 25",
+        "area": 46785,
+        "owner": "JNF",
+        "zoneType": "Military"
+      }
+    }
+  ]
+}

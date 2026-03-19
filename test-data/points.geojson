@@ -3,28 +3,903 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [34.7818, 32.0853] },
-      "properties": { "name": "Tel Aviv", "value": 100 }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.030798,
+          31.615641
+        ]
+      },
+      "properties": {
+        "name": "Tel Aviv",
+        "value": 391,
+        "category": "mall"
+      }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [35.2137, 31.7683] },
-      "properties": { "name": "Jerusalem", "value": 200 }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.643107,
+          32.971301
+        ]
+      },
+      "properties": {
+        "name": "Jerusalem",
+        "value": 413,
+        "category": "restaurant"
+      }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [34.9896, 32.7940] },
-      "properties": { "name": "Haifa", "value": 150 }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.713131,
+          32.149438
+        ]
+      },
+      "properties": {
+        "name": "Haifa",
+        "value": 316,
+        "category": "station"
+      }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [34.7913, 31.2518] },
-      "properties": { "name": "Beer Sheva", "value": 80 }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.310165,
+          30.141595
+        ]
+      },
+      "properties": {
+        "name": "Beer Sheva",
+        "value": 422,
+        "category": "park"
+      }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [35.5018, 32.4627] },
-      "properties": { "name": "Nazareth", "value": 60 }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.655965,
+          30.953234
+        ]
+      },
+      "properties": {
+        "name": "Nazareth",
+        "value": 97,
+        "category": "mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.461963,
+          30.309304
+        ]
+      },
+      "properties": {
+        "name": "Eilat",
+        "value": 104,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.61038,
+          32.250137
+        ]
+      },
+      "properties": {
+        "name": "Ashdod",
+        "value": 76,
+        "category": "library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.480933,
+          32.86081
+        ]
+      },
+      "properties": {
+        "name": "Netanya",
+        "value": 149,
+        "category": "mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.772843,
+          29.77787
+        ]
+      },
+      "properties": {
+        "name": "Rishon LeZion",
+        "value": 379,
+        "category": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.65908,
+          32.389023
+        ]
+      },
+      "properties": {
+        "name": "Petah Tikva",
+        "value": 427,
+        "category": "library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.685166,
+          30.540547
+        ]
+      },
+      "properties": {
+        "name": "Holon",
+        "value": 459,
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.227686,
+          32.034317
+        ]
+      },
+      "properties": {
+        "name": "Bat Yam",
+        "value": 368,
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.63103,
+          30.715236
+        ]
+      },
+      "properties": {
+        "name": "Ramat Gan",
+        "value": 56,
+        "category": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.608462,
+          32.864951
+        ]
+      },
+      "properties": {
+        "name": "Herzliya",
+        "value": 294,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.575412,
+          31.565194
+        ]
+      },
+      "properties": {
+        "name": "Kfar Saba",
+        "value": 12,
+        "category": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.866421,
+          30.536706
+        ]
+      },
+      "properties": {
+        "name": "Raanana",
+        "value": 159,
+        "category": "office"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.699409,
+          31.570328
+        ]
+      },
+      "properties": {
+        "name": "Rehovot",
+        "value": 279,
+        "category": "office"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.592078,
+          32.701384
+        ]
+      },
+      "properties": {
+        "name": "Ashkelon",
+        "value": 331,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.945981,
+          33.261336
+        ]
+      },
+      "properties": {
+        "name": "Lod",
+        "value": 421,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.603788,
+          33.26826
+        ]
+      },
+      "properties": {
+        "name": "Ramla",
+        "value": 83,
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.678268,
+          32.485073
+        ]
+      },
+      "properties": {
+        "name": "Modiin",
+        "value": 497,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.962087,
+          31.459339
+        ]
+      },
+      "properties": {
+        "name": "Acre",
+        "value": 235,
+        "category": "library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.172995,
+          33.129887
+        ]
+      },
+      "properties": {
+        "name": "Tiberias",
+        "value": 434,
+        "category": "library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.068737,
+          29.539009
+        ]
+      },
+      "properties": {
+        "name": "Safed",
+        "value": 49,
+        "category": "office"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.877158,
+          29.528626
+        ]
+      },
+      "properties": {
+        "name": "Dimona",
+        "value": 46,
+        "category": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.879941,
+          32.1424
+        ]
+      },
+      "properties": {
+        "name": "Arad",
+        "value": 33,
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.403995,
+          31.283716
+        ]
+      },
+      "properties": {
+        "name": "Kiryat Gat",
+        "value": 480,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.583348,
+          32.517054
+        ]
+      },
+      "properties": {
+        "name": "Kiryat Shmona",
+        "value": 196,
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25698,
+          30.374056
+        ]
+      },
+      "properties": {
+        "name": "Sderot",
+        "value": 499,
+        "category": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.265946,
+          32.867231
+        ]
+      },
+      "properties": {
+        "name": "Or Yehuda",
+        "value": 306,
+        "category": "office"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.733336,
+          31.90789
+        ]
+      },
+      "properties": {
+        "name": "Givatayim",
+        "value": 109,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.535569,
+          30.487475
+        ]
+      },
+      "properties": {
+        "name": "Ramat Hasharon",
+        "value": 354,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.075408,
+          30.914243
+        ]
+      },
+      "properties": {
+        "name": "Hod Hasharon",
+        "value": 442,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.236468,
+          30.182615
+        ]
+      },
+      "properties": {
+        "name": "Yavne",
+        "value": 147,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.551598,
+          31.919289
+        ]
+      },
+      "properties": {
+        "name": "Rosh HaAyin",
+        "value": 99,
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25953,
+          31.160013
+        ]
+      },
+      "properties": {
+        "name": "Migdal HaEmek",
+        "value": 210,
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.608298,
+          32.473869
+        ]
+      },
+      "properties": {
+        "name": "Afula",
+        "value": 380,
+        "category": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.369188,
+          31.000435
+        ]
+      },
+      "properties": {
+        "name": "Yokneam",
+        "value": 329,
+        "category": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.106877,
+          32.71304
+        ]
+      },
+      "properties": {
+        "name": "Carmiel",
+        "value": 469,
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.222471,
+          29.682891
+        ]
+      },
+      "properties": {
+        "name": "Nahariya",
+        "value": 269,
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.670731,
+          32.36042
+        ]
+      },
+      "properties": {
+        "name": "Beit Shemesh",
+        "value": 283,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.543855,
+          29.987866
+        ]
+      },
+      "properties": {
+        "name": "Kiryat Ono",
+        "value": 346,
+        "category": "mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.747191,
+          32.88582
+        ]
+      },
+      "properties": {
+        "name": "Kiryat Bialik",
+        "value": 103,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.742567,
+          32.838744
+        ]
+      },
+      "properties": {
+        "name": "Kiryat Motzkin",
+        "value": 56,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38793,
+          31.275904
+        ]
+      },
+      "properties": {
+        "name": "Nesher",
+        "value": 254,
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.41275,
+          29.557808
+        ]
+      },
+      "properties": {
+        "name": "Tirat Carmel",
+        "value": 110,
+        "category": "mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.465669,
+          31.243876
+        ]
+      },
+      "properties": {
+        "name": "Gedera",
+        "value": 215,
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.955068,
+          30.509008
+        ]
+      },
+      "properties": {
+        "name": "Or Akiva",
+        "value": 411,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77736,
+          32.928371
+        ]
+      },
+      "properties": {
+        "name": "Kadima",
+        "value": 473,
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.781274,
+          33.268423
+        ]
+      },
+      "properties": {
+        "name": "Pardes Hanna",
+        "value": 193,
+        "category": "station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.268072,
+          30.694744
+        ]
+      },
+      "properties": {
+        "name": "Ariel",
+        "value": 15,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.026916,
+          32.150172
+        ]
+      },
+      "properties": {
+        "name": "Maalot",
+        "value": 13,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.190905,
+          30.481114
+        ]
+      },
+      "properties": {
+        "name": "Beit Shean",
+        "value": 360,
+        "category": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.480673,
+          29.975434
+        ]
+      },
+      "properties": {
+        "name": "Ofakim",
+        "value": 456,
+        "category": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.617008,
+          32.067504
+        ]
+      },
+      "properties": {
+        "name": "Yeruham",
+        "value": 319,
+        "category": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.879746,
+          29.529883
+        ]
+      },
+      "properties": {
+        "name": "Mitzpe Ramon",
+        "value": 395,
+        "category": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.275302,
+          33.268138
+        ]
+      },
+      "properties": {
+        "name": "Ein Gedi",
+        "value": 250,
+        "category": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.667848,
+          31.147216
+        ]
+      },
+      "properties": {
+        "name": "Caesarea",
+        "value": 473,
+        "category": "mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24354,
+          32.480367
+        ]
+      },
+      "properties": {
+        "name": "Zichron Yaakov",
+        "value": 27,
+        "category": "market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.691262,
+          30.711047
+        ]
+      },
+      "properties": {
+        "name": "Hadera",
+        "value": 139,
+        "category": "restaurant"
+      }
     }
   ]
 }

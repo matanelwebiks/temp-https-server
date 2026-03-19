@@ -9,5 +9,10 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install --production
 COPY . .
-EXPOSE 3333
+
+# Generate all static test data files
+RUN node generate-data.js
+
+# HTTP + HTTPS
+EXPOSE 3333 3443
 CMD ["node", "server.js"]

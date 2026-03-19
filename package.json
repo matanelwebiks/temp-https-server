@@ -1,14 +1,16 @@
 {
-  "name": "http-source-test-server",
-  "version": "1.0.0",
-  "description": "Test server for auto-update-layers HTTP source scenarios",
+  "name": "auto-update-layers-test-server",
+  "version": "2.0.0",
+  "description": "Test server for auto-update-layers: HTTP file downloads, paginated API endpoints, auth types, HTTPS",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "generate": "node generate-data.js"
   },
   "dependencies": {
     "archiver": "^7.0.0",
     "express": "^4.18.2",
+    "selfsigned": "^2.4.1",
     "xlsx": "^0.18.5"
   }
 }
